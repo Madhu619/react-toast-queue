@@ -2,7 +2,7 @@
 
 A lightweight toast notification system powered by React Context with timed auto-dismiss.
 
-![React Toast Queue demo](screenshots/demo.gif)
+![React Toast Queue demo](https://raw.githubusercontent.com/Madhu619/react-toast-queue/master/screenshots/demo.gif)
 
 ## Install
 
@@ -67,5 +67,5 @@ npm run dev
 
 ## Screenshots
 
-![Toast stack](screenshots/stack.png)
-![Toast demo](screenshots/demo.png)
+![Toast stack](https://raw.githubusercontent.com/Madhu619/react-toast-queue/master/screenshots/stack.png)
+![Toast demo](https://raw.githubusercontent.com/Madhu619/react-toast-queue/master/screenshots/demo.png)
