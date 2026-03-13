@@ -1,0 +1,25 @@
+﻿# dependencies
+/node_modules
+/demo/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+.idea
+.vscode
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.npm-cache
+/demo/.npm-cache
+*.log
